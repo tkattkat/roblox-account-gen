@@ -1,0 +1,15 @@
+{
+  "name": "roblox-acc-gen",
+  "version": "1.0.0",
+  "description": "Generate roblox accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@__tkat__",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.1.3",
+    "randopeep": "^1.1.6"
+  }
+}
