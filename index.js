@@ -20,7 +20,6 @@ const randomNum = Math.floor(Math.random() * 1000001);
     await page.type('#signup-password', password)
     await page.click('#MaleButton')
     await page.waitForTimeout(2000)
-    console.log('waited')
     await page.click('#signup-button')
     await page.waitForNavigation()
     await page.goto('https://www.roblox.com/chipotle')
