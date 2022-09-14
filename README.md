@@ -2,6 +2,6 @@
 Generate roblox accounts 
 
 
-Replace password string with desired password
+1.Replace password string with desired password
 
-Run  node index.js  to generate account 
+2.Run  node index.js  to generate account 
